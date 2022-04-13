@@ -3,11 +3,11 @@ import Button from "./Button";
 
 function Intro(props) {
     return(
-<div className=" p-24 items-center text-xl bg-[url('https://img.freepik.com/free-vector/white-background-with-blue-tech-hexagon_1017-19366.jpg?w=826&t=st=1649701269~exp=1649701869~hmac=6b8ca4fd608a13380560184104a1c1229c4151f9877b9e7528ba14bff7e54686')]">
-<p className="text-4xl text-black "> Hi, I'm</p>
-<h1 className="text-8xl text-yellow-400 font-semibold animate-pulse hover:animate-bounce "> Navin Rangar.</h1>
+<div className="p-24 items-center text-xl bg-[url('https://img.freepik.com/free-vector/white-background-with-blue-tech-hexagon_1017-19366.jpg?w=826&t=st=1649701269~exp=1649701869~hmac=6b8ca4fd608a13380560184104a1c1229c4151f9877b9e7528ba14bff7e54686')]">
+<p className="text-4xl text-black sm:text-2xl "> Hi, I'm</p>
+<h1 className="text-8xl text-yellow-400 font-semibold animate-pulse hover:animate-bounce sm:text-5xl pr-3">Navin Rangar.</h1>
 
-<h2 className="text-5xl text-black mt-3 mb-3  ">Front End Web Developer and Digital Marketer.</h2>
+<h2 className="text-5xl text-black mt-3 mb-3 sm:text-3xl ">Front End Web Developer and Digital Marketer.</h2>
 
 <p className="text-2xl text-yellow-600 underline mb-11"> Have been in WebDev space for last 3 months, and have worked with over 10 clients. Also having 5 years of Digital Marketing experience.</p>
 
