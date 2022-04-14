@@ -4,7 +4,7 @@ import Button from "./Button";
 function About(props) {
     return(
         <div className=" p-24 pb-4 items-center text-xl bg-[url('https://img.freepik.com/free-photo/dreamy-surreal-sky-clouds-as-abstract-nature-background-spiritual-design-religion-concept_360074-1997.jpg?w=1380')]">
-
+<a name="aboutsection"> </a>
             <div>
             <h2 className="font-bold text-3xl text-center m-6 underline"> About Navin </h2>
 
