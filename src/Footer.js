@@ -9,9 +9,9 @@ import React from 'react';
 function Footer(props){
     return(
 <>
-    <div className="flex sm:flex mx-1 sm:justify-between bg-red-800 pt-1 sm:pt-5 pb-2 pl-0 sm:pl-16 pr-2 sm:pr-16">
+    <div className="flex sm:flex mx-1 justify-between bg-red-800 pt-1 sm:pt-5 pb-2 pl-0 sm:pl-16 pr-2 sm:pr-16">
 
-    <div className="text-white text-xs sm:text-lg mt-7 sm:mt-9">
+    <div className="text-white text-xs sm:text-lg ml-2 mt-2 sm:mt-9">
     <p>© 2022 Navin Rangar</p>
 </div>
 
@@ -33,7 +33,7 @@ function Footer(props){
 
 
 <div className="">
-<p className="text-xs sm:text-xl  text-white sm:flex sm:flex-row flex-col justify-center mt-8"> With
+<p className="text-xs sm:text-xl  text-white sm:flex sm:flex-row flex-col justify-center mt-4"> With
 <img src="https://cdn-icons-png.flaticon.com/512/35/35538.png" className="h-4 w-4 sm:mx-2 animate-bounce"/> <a href="https://www.codeyogi.io" target="_blank" rel="noreferrer"> from CodeYogi </a> </p></div>
 </div>
 

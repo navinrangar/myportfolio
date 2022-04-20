@@ -6,7 +6,7 @@ function Skills(props){
 <a name="skillssection"> </a>
 <h2 className="font-bold text-3xl text-center m-8 underline"> His Skills </h2>
         <div className="flex flex-col sm:flex-row sm:flex mx-2 sm:mx-48 my-12 space-y-6 sm:space-x-6 ">
-       <div className=" px-24 py-6 shadow shadow-[#040c16] hover:scale-110 duration-500">
+       <div className="px-24 py-6 shadow shadow-[#040c16] hover:scale-110 duration-500">
         <img class="w-20 mx-auto" src="https://cdn-icons-png.flaticon.com/512/919/919827.png" alt="HTML icon"/>
         <p class="px-6 py-2">HTML</p>
         </div>
