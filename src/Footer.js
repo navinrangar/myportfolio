@@ -12,7 +12,7 @@ function Footer(props){
     <div className="flex sm:flex mx-1 justify-between bg-red-800 pt-1 sm:pt-5 pb-2 pl-0 sm:pl-16 pr-2 sm:pr-16">
 
     <div className="text-white text-xs sm:text-lg ml-2 mt-2 sm:mt-9">
-    <p>© 2022 Navin Rangar</p>
+    <p>© 2023 Navin Rangar</p>
 </div>
 
 <div className="flex ml-0 sm:ml-52">
@@ -27,7 +27,7 @@ function Footer(props){
 
 
 <div className="mt-6">
-<a href="https://github.com/navinsinghrangar" target="_blank" rel="noreferrer"> <img class="h-5 sm:h-12 animate-bounce sm:mr-2 hover:animate-" src="https://cdn.icon-icons.com/icons2/2351/PNG/512/logo_github_icon_143196.png" /> </a>
+<a href="https://github.com/navinrangar" target="_blank" rel="noreferrer"> <img class="h-5 sm:h-12 animate-bounce sm:mr-2 hover:animate-" src="https://cdn.icon-icons.com/icons2/2351/PNG/512/logo_github_icon_143196.png" /> </a>
 </div>
 </div>
 
